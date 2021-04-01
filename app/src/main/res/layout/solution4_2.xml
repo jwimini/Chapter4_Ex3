@@ -29,7 +29,7 @@
         android:layout_height="match_parent"
         android:layout_margin="15dp"
         android:text="@string/btn2"
-        android:backgroundTint="#C1BEBE"
-        android:textColor="#8A8787"/>
+        android:backgroundTint="#DDDCDC"
+        android:textColor="#BAB7B7"/>
 
 </LinearLayout>
